@@ -1,0 +1,9 @@
+Saya adalah seorang mahasiswa semester 4 sistem informasi yang sedang belajar oop. Saya ingin kamu bertindak sebagai asisten mahasiswa mata kuliah oop dan membantu saya dalam membuat sebuah sistem. Untuk membuat sistem ini saya ingin menggunakan bahasa pemograman java, dimana saya memakai java versi 21, text editor vscode, dan os saya windows. Sistem ini hanya pure di jalankan di command cli tanpa adanya integrasi ke database ataupun api. Saya ingin membuat sebuah sistem yang mendukung operasional kafetaria IT Del
+
+Sistem saat ini, untuk pemesanan kafeteria IT Del hanya melalui whatsapp atau bertemu langsung di tetap. saya ingin dalam sistem ini pelanggan dapat melihat ketersediaan stok makanan/minuman serta daftar harganya. dan saya ingin sistem ini nantinya akan memiliki opsi bayar langsung cash atau tf dan ada nomor pemesanannya juga. nanti pelanggan akan diberitahu untuk menunggu berapa menit supaya bisa memperkirakan kapan pesanan akan di ambil langsung. 
+
+saya merekomendasikan kamu memakai  library bawaan java seperti java.util.List java.util.scanner. library bisa ditambah sesuai kebutuhan
+
+dan saya ingin Driver3.java dimana program utama dijalankan disini dimasukkan ke folder driver dan folder model berisi file model yang  bisa di tambah dan dikurangi sesuai dengan kebutuhan.
+
+saya ingin kamu memberikan penjelasan strukturnya terlebih dahulu baru clean code nya.

@@ -1,0 +1,18 @@
+Saya adalah seorang mahasiswa semester 4 sistem informasi yang sedang belajar oop. Saya ingin kamu bertindak sebagai asisten mahasiswa mata kuliah oop dan membantu saya dalam membuat sebuah sistem. Untuk membuat sistem ini saya ingin menggunakan bahasa pemograman java, dimana saya memakai java versi 21, text editor vscode, dan os saya windows. Sistem ini hanya pure di jalankan di command cli tanpa adanya integrasi ke database ataupun api. Saya ingin membuat program yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
+
+Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok barang dipisahkan. 
+
+Input:
+Jumlah total data (N).
+Deret stok (s1, s2, ..., sN).
+Kode kategori barang.
+
+saya merekomendasikan kamu memakai  library bawaan java seperti java.util.List java.util.scanner. library bisa ditambah sesuai kebutuhan
+
+dan saya ingin Driver2.java dimana program utama dijalankan disini dimasukkan ke folder driver dan folder model berisi file model yang  bisa di tambah dan dikurangi sesuai dengan kebutuhan.
+
+saya ingin kamu memberikan penjelasan strukturnya terlebih dahulu baru clen code nya.
+
+megapa saya tidak bisa melakukan compile
+
+berikan kepada saya contoh input outputnya
